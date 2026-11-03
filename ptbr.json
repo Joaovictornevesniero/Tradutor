@@ -1,0 +1,31 @@
+{
+  "palavras": {
+    "ecrã": "tela", "ecrãs": "telas", "telemóvel": "celular", "telemóveis": "celulares",
+    "autocarro": "ônibus", "autocarros": "ônibus", "comboio": "trem", "comboios": "trens",
+    "equipa": "equipe", "equipas": "equipes", "ficheiro": "arquivo", "ficheiros": "arquivos",
+    "utilizador": "usuário", "utilizadores": "usuários", "facto": "fato", "factos": "fatos",
+    "contacto": "contato", "contactos": "contatos", "óptimo": "ótimo", "acção": "ação",
+    "acções": "ações", "objectivo": "objetivo", "objectivos": "objetivos", "projecto": "projeto",
+    "projectos": "projetos", "registo": "registro", "registos": "registros", "director": "diretor",
+    "directo": "direto", "directamente": "diretamente", "actual": "atual", "actualmente": "atualmente",
+    "actor": "ator", "actriz": "atriz", "electrónico": "eletrônico", "electricidade": "eletricidade",
+    "excepto": "exceto", "espectáculo": "espetáculo", "tecto": "teto", "detetar": "detectar",
+    "seleccionar": "selecionar", "selecção": "seleção", "colecção": "coleção", "protecção": "proteção",
+    "direcção": "direção", "efectivamente": "efetivamente", "ténis": "tênis",
+    "miúdo": "garoto", "miúda": "garota", "miúdos": "garotos", "miúdas": "garotas",
+    "rapariga": "garota", "raparigas": "garotas", "frigorífico": "geladeira", "sumo": "suco",
+    "sumos": "sucos", "camião": "caminhão", "passadeira": "faixa de pedestres", "trotinete": "patinete",
+    "rebuçado": "bala", "montra": "vitrine", "chávena": "xícara", "talho": "açougue",
+    "esquadra": "delegacia", "fixe": "legal", "apanhar": "pegar", "apanhou": "pegou", "apanhei": "peguei",
+    "pequeno-almoço": "café da manhã", "casa de banho": "banheiro", "casas de banho": "banheiros",
+    "carta de condução": "carteira de motorista",
+    "estás": "você está", "tens": "você tem", "queres": "você quer", "podes": "você pode",
+    "vais": "você vai", "és": "você é", "sabes": "você sabe", "fazes": "você faz",
+    "tu": "você", "teu": "seu", "tua": "sua", "teus": "seus", "tuas": "suas",
+    "contigo": "com você", "ti": "você"
+  },
+  "regex": {
+    "\\b(tenho|tens|tem|temos|têm|tinha|tinham) de\\b": "\\1 que",
+    "\\bao pé de\\b": "perto de"
+  }
+}

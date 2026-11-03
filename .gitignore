@@ -1,0 +1,7 @@
+@"
+log.txt
+config.json
+__pycache__/
+*.pyc
+opus-en-romance-ct2/
+"@ | Out-File -Encoding utf8 .gitignore
